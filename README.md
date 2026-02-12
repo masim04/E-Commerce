@@ -56,8 +56,8 @@ Copy code
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/e-commerce.git
-cd ecommerce
+git clone https://github.com/masim04/E-Commerce.git
+cd E-Commerce
 2️⃣ Install dependencies
 bash
 Copy code
